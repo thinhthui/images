@@ -49,7 +49,7 @@
   --header-secondary: var(--text-color);
   --channels-default:var(--text-color);
   --interactive-normal: var(--text-color);
-  --channeltextarea-background: var(--background);
+  --channeltextarea-background: rgba(75, 75, 75, 0.055);
   --textbox-markdown-syntax: var(--background);
 }
 

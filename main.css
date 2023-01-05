@@ -94,7 +94,7 @@ html,body::before, .root-2zfUH6::before,
 
 .container-1eFtFS {
   
-  background-image: url("https://d.furaffinity.net/art/joje/1470451760/1470451760.joje_lain_wallpaper.jpg");
+  background-image: url(https://ahrixthinh.xyz/Images/bg.jpg);
   background-size: cover;
   z-index: 0;
   
@@ -285,13 +285,17 @@ body *, .userPopout-3XzG_A * {
   fill: rgba(0, 0, 0, 0);
 }
 
-.childWrapper-1j_1ub {
+.childWrapper-1j_1ub  {
   background: url("https://i.pinimg.com/originals/6f/70/87/6f7087757eae0ccf183e31e6a530b6a0.gif") top center/110% no-repeat;
   background-size: cover;
   background-position: 70%;
+  color: transparent; 
 }
 .childWrapper-1j_1ub path {
-  display : none
+  display : none;
+}
+.tutorialContainer-1pL9QS .svg-2zuE5p foreignobject svg * {
+  fill: none !important;
 }
 
 
